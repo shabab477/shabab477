@@ -18,7 +18,7 @@ I have been a full stack developer for 3+ years. Currently I work with the Sprin
 #### About me:
 
 - 🔭 I’m currently working on building my own lifestyle business
-- 🌱 I’m currently learning business management
+- 🌱 I’m currently learning about business management and startup engineering
 - 👯 I’m looking to collaborate on projects that help build my portfolio
 - 💬 Ask me about software engineering
 - 📫 How to reach me: [@PublicFinal](https://twitter.com/publicfinal) 
