@@ -24,3 +24,8 @@ I have been a full stack developer for 3+ years. Currently I work with the Sprin
 - 📫 How to reach me: [@PublicFinal](https://twitter.com/publicfinal) 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have the lowest spice tolerance but can't have breakfast without hot sauce 
+
+#### 👔 Hire me for gigs on:
+- [Fiverr](https://www.fiverr.com/shababbkarim)
+- [Freelancer.com](https://www.freelancer.com.bd/u/shababbkarim)
+- [AngelList](https://angel.co/u/shabab-karim-2)
