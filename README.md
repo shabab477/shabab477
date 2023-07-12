@@ -5,9 +5,15 @@
 
 ### Hi there 👋
 
-I have been a full stack developer for 3+ years. Currently I work with the Spring MVC in the back end, with little front end development here and there. As a part time software consultant, I have helped business build software in the MERN stack along with software built for mobile in native Android and Flutter. As a very careful back end developer, I prefer type safety over dynamic typing, hence I love working with Typescript and Java. 
+I have been a full stack developer for 5+ years. I am working at the Postcode Loterij as a full stack engineer, where I help with the tooling which marketing team uses to build ad campaigns in order to sell lottery tickets. 
 
 #### So far in my career I have:
+
+- Left everything behind in Bangladesh and moved to the Netherlands for work, so far best decision career/life - wise.
+
+- Showed expertise in both front end and back end development, leading to my current job as a full stack developer.
+
+- Worked as a consultant for Audi, helping them build their data portal and micro-services for their car fleet.
 
 - Helped a GMBH(German LLC) create a daily data pipeline from SquareSpace orders to their in house ERP system. Previously, data migration was done manually, which needed employees with significant computer skills and training. Automating the process saves 1400$ monthly, in man-hours.
 
@@ -15,10 +21,10 @@ I have been a full stack developer for 3+ years. Currently I work with the Sprin
 
 - Worked with Bangladesh govt. agencies for creating simple Android applications for sharing information regarding their departments.
 
+
 #### About me:
 
-- 🔭 I’m currently working on building my own lifestyle business
-- 🌱 I’m currently learning about business management and startup engineering
+- 🔭 I’m currently studying for the CKAD exam
 - 👯 I’m looking to collaborate on projects that help build my portfolio
 - 💬 Ask me about software engineering
 - 📫 How to reach me: [@PublicFinal](https://twitter.com/publicfinal) 
