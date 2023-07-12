@@ -9,7 +9,7 @@ I have been a full stack developer for 5+ years. I am working at the Postcode Lo
 
 #### So far in my career I have:
 
-- Left everything behind in Bangladesh and moved to the Netherlands for work, so far best decision career/life - wise.
+- Left everything behind in Bangladesh and moved to the Netherlands 🇳🇱 for work, so far best decision career/life - wise.
 
 - Showed expertise in both front end and back end development, leading to my current job as a full stack developer.
 
